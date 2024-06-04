@@ -1,3 +1,17 @@
+### Код, та робота програми
+### На "чотири"
+
+![](screenshot/1.png)
+![](screenshot/2.png)
+![](screenshot/3.png)
+![](screenshot/4.png)
+![](screenshot/5.png)
+![](screenshot/6.png)
+![](screenshot/7.png)
+![](screenshot/8.png)
+![](screenshot/9.png)
+
+
 # UI Lab 4
 ![](terminal-icon.png)
 ![](gui-icon.png)
